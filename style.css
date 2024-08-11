@@ -1,4 +1,7 @@
-body div label{
-    font-size: 13pt;
-    color: black;
+h1{
+  text-align: center;
+}
+.alok{
+  color: red;
+  background-color: black
 }
