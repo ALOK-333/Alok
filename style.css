@@ -30,7 +30,6 @@ tweet-content{
   font-size: 15px;
 }
 .tweetdiv{
-  font: Arial;
   flex-direction: column;
   display: flex;
   margin-top: 0;
@@ -38,4 +37,3 @@ tweet-content{
   font-size: 15px;
   width: 350px;
 }
-{}
